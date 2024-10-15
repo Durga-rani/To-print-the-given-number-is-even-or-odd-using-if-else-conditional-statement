@@ -1,0 +1,20 @@
+//Conditional statements:
+//Even oe odd numbers program using if else:
+#include<stdio.h>
+int main()
+{
+    int n=9;
+    if(n%2==0)
+ {
+      printf(" the given number is even");
+ }
+    else
+   {
+      printf(" the given number is odd");
+   
+   }
+    
+}
+
+Output:
+the given number is odd
